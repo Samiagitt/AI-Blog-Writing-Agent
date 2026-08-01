@@ -1,0 +1,7 @@
+typing
+langgraph
+langchain_core
+langchain_openai
+dotenv
+Pydantic
+langchain_community
